@@ -1,4 +1,5 @@
-## Olá! Muito prazer! Eu sou o Igor Rizzo
+## Olá! Muito prazer!
+### Meu nome é Igor, e este é meu repositório do github.
 
  <div>
   <a href="https://github.com/Igor-Rizzo">
